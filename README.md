@@ -26,3 +26,13 @@ pip install requests beautifulsoup4 pandas
 ```bash
 python hh_parser.py
 ```
+
+# 📞 Нужна автоматизация?
+### Я делаю под ключ:
+- 🔍 **Парсинг сайтов**
+
+- 🤖 **Telegram-боты**
+
+- 📊 **Автоматизацию Excel и отчётов**
+
+## Telegram: @vikidmt
